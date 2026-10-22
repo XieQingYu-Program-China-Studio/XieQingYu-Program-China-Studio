@@ -57,7 +57,7 @@ Hi，我是**谢清宇**，一名 16 岁的 AI 从业者。
 
 ## 🚀 开源项目
 
-### [`mse-bas-tools`](https://github.com/XieQingYu-ProgramStudio/mse-bas-tools) — 月星BAS工具箱
+### [`mse-bas-tools`](https://github.com/xieqingyu-china/mse-bas-tools) — 月星BAS工具箱
 
 面向 **macOS 15 / OpenCore** 环境的本地权限管理与系统维护工具，当前版本 **v1.2.1**。
 
@@ -78,11 +78,11 @@ Hi，我是**谢清宇**，一名 16 岁的 AI 从业者。
 - 🛡️ Apple Events 精确目标保护、原子配置写入和 OpenCore 兼容性确认
 - 🚀 有界并发扫描，本机 77 个应用扫描约 1.5 秒
 
-[查看源码](https://github.com/XieQingYu-ProgramStudio/mse-bas-tools) · [下载 Release](https://github.com/XieQingYu-ProgramStudio/mse-bas-tools/releases)
+[查看源码](https://github.com/xieqingyu-china/mse-bas-tools) · [下载 Release](https://github.com/xieqingyu-china/mse-bas-tools/releases)
 
 ---
 
-### [`mechrevo-aurora-x-2025-efi`](https://github.com/XieQingYu-ProgramStudio/mechrevo-aurora-x-2025-efi) — 机械革命极光X 2025 OpenCore EFI
+### [`mechrevo-aurora-x-2025-efi`](https://github.com/xieqingyu-china/mechrevo-aurora-x-2025-efi) — 机械革命极光X 2025 OpenCore EFI
 
 面向 **机械革命 极光 X 2025** 的 OpenCore 启动配置，已在本机 macOS 15.8.1 环境验证。
 
@@ -101,11 +101,11 @@ Hi，我是**谢清宇**，一名 16 岁的 AI 从业者。
 - 内置 I2C 触控板仍无法驱动，README 中记录了当前设备路径和诊断信息
 - NVIDIA 显卡依赖系统侧 NullMoth 补丁，EFI 包内不包含这些系统卷组件
 
-[查看源码](https://github.com/XieQingYu-ProgramStudio/mechrevo-aurora-x-2025-efi) · [下载 EFI](https://github.com/XieQingYu-ProgramStudio/mechrevo-aurora-x-2025-efi/releases)
+[查看源码](https://github.com/xieqingyu-china/mechrevo-aurora-x-2025-efi) · [下载 EFI](https://github.com/xieqingyu-china/mechrevo-aurora-x-2025-efi/releases)
 
 ---
 
-### [`xieqingyu-studio`](https://github.com/XieQingYu-ProgramStudio/xieqingyu-studio) — WordPress 主题
+### [`xieqingyu-studio`](https://github.com/xieqingyu-china/XieqingyuProgramStudio-WordPressTheme) — WordPress 主题
 
 一款为创作者与工作室打造的 **Neo-Brutalism（新粗野主义）** WordPress 主题。
 
@@ -158,7 +158,7 @@ Hi，我是**谢清宇**，一名 16 岁的 AI 从业者。
 <div align="center">
 
 [![Website](https://img.shields.io/badge/官网-xieqingyu.click-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xieqingyu.click/)
-[![GitHub](https://img.shields.io/badge/GitHub-XieQingYu_ProgramStudio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XieQingYu-ProgramStudio)
+[![GitHub](https://img.shields.io/badge/GitHub-xieqingyu--china-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xieqingyu-china)
 [![YouTube](https://img.shields.io/badge/YouTube-@XieqingyuProgramStudio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@XieqingyuProgramStudio)
 [![Email](https://img.shields.io/badge/Email-xieqingyu857@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xieqingyu857@gmail.com)
 
