@@ -18,13 +18,13 @@
 
 <div align="center">
 
-<a href="https://github.com/XieQingYu-ProgramStudio/XieQingYu-ProgramStudio/raw/main/assets/xieqingyu-studio-promo.mp4">
+<a href="https://github.com/XieQingYu-Program-China-Studio/XieQingYu-Program-China-Studio/raw/main/assets/xieqingyu-studio-promo.mp4">
   <img src="assets/xieqingyu-studio-promo-preview.gif" alt="谢清宇工作室动画宣传片预览" width="100%" />
 </a>
 
 **36 秒 · 1080p · 原创配乐**
 
-[▶ 观看带声音的完整版](https://github.com/XieQingYu-ProgramStudio/XieQingYu-ProgramStudio/raw/main/assets/xieqingyu-studio-promo.mp4)
+[▶ 观看带声音的完整版](https://github.com/XieQingYu-Program-China-Studio/XieQingYu-Program-China-Studio/raw/main/assets/xieqingyu-studio-promo.mp4)
 
 </div>
 
